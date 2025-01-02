@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Header](https://github.com/KarthiKarthikairasuK/Profile.jpg)
+![Header](https://github.com/karthikairasu/KarthikairasuK/blob/master/Profile.jpg)
 
 # Hello folks!👋
 
@@ -38,19 +38,19 @@ My name is Karthikairasu K. I am a Front End Developer.
 
 ## &#x1f4c8; GitHub
 <a href="https://github.com/karthikairasu/KarthikairasuK">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikairasuK&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikairasu&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/karthikairasu/KarthikairasuK">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KarthikairasuK&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aashima's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Karthikairasu&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aashima's GitHub Stats" />
 </a>
 <a href="https://github.com/karthikairasu/KarthikairasuK">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KarthikairasuK&repo=Masonary&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Karthikairasu&repo=Masonary&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/karthikairasu/KarthikairasuK">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KarthikairasuK&repo=star-wars &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Karthikairasu&repo=star-wars &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/karthikairasu/KarthikairasuK">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KarthikairasuK&repo=Infinite-scroll &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Karthikairasu&repo=Infinite-scroll &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 ## 🔗 &nbsp;**Connect with me**
