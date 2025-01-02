@@ -38,7 +38,7 @@ My name is Karthikairasu K. I am a Front End Developer.
 
 ## &#x1f4c8; GitHub
 <a href="https://github.com/karthikairasu/KarthikairasuK">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikairasu&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikairasu&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
 </a>
 <a href="https://github.com/karthikairasu/KarthikairasuK">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Karthikairasu&show_icons=true&line_height=27&count_private=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&include_all_commits=true" alt="Aashima's GitHub Stats" />
